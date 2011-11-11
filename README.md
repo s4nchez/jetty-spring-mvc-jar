@@ -1,6 +1,6 @@
 #What?
 
-An skeleton project that shows how to generate a simple web app in a jar.
+A skeleton project showing how to generate a web app as a simple jar.
 
 #Why?
 
